@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleChat</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1069390942141",
+    "firebase_url": "https://authart90.firebaseio.com",
+    "project_id": "authart90",
+    "storage_bucket": "authart90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069390942141:android:791fcad30dd9d0e1",
+        "android_client_info": {
+          "package_name": "com.kushal.samplechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069390942141-6nt8h44goi2fq3juc74q8pojsjb2cbn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kushal.samplechat",
+            "certificate_hash": "c8f6fd3f069f39ec8eea309d8e412634ccfdf0f0"
+          }
+        },
+        {
+          "client_id": "1069390942141-77f83gvc3q709vci0gjgmt42do49mdnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAED_Gqx2eZoXYegGeMZ39RQ46zUrhRMyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069390942141-77f83gvc3q709vci0gjgmt42do49mdnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
